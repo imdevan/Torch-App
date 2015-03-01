@@ -1,0 +1,9 @@
+/Users/karriecheng/AndroidStudioProjects/MyList/Application/build/intermediates/classes/debug
+/Users/karriecheng/AndroidStudioProjects/MyList/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-12154d2b60c42aececabf2dda08811673bb490b1.jar
+/Users/karriecheng/AndroidStudioProjects/MyList/Application/build/intermediates/pre-dexed/debug/classes-b9119eff3aca091bc61b16d96913c40317ad3b28.jar
+/Users/karriecheng/AndroidStudioProjects/MyList/Application/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-535b6a7a910c21796bb8ae84ef4a068ede6fc4dc.jar
+/Users/karriecheng/AndroidStudioProjects/MyList/Application/build/intermediates/pre-dexed/debug/classes-5b530d059d2b19894b0836446bf1fe64cadb5404.jar
+/Users/karriecheng/AndroidStudioProjects/MyList/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-5051a958bf9c77da063b715e16707e08f9addd0d.jar
+/Users/karriecheng/AndroidStudioProjects/MyList/Application/build/intermediates/pre-dexed/debug/classes-028496302884ca8273922c8bfd71bfc1ba07abcb.jar
+/Users/karriecheng/AndroidStudioProjects/MyList/Application/build/intermediates/pre-dexed/debug/Parse-1.8.2-6dc66b423231b4f3f8aa7d645178bc824b67d2e0.jar
+/Users/karriecheng/AndroidStudioProjects/MyList/Application/build/intermediates/pre-dexed/debug/classes-93a13413bfac73db2041e933ea58923172814d9e.jar
