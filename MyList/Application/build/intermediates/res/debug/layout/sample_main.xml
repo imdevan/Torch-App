@@ -17,4 +17,4 @@
 <fragment xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:name="com.example.android.actionbarcompat.listpopupmenu.PopupListFragment" /><!-- From: file:/Users/karriecheng/AndroidStudioProjects/MyList/Application/src/main/res/layout/sample_main.xml -->
+    android:name="com.example.android.actionbarcompat.listpopupmenu.PopupListFragment" /><!-- From: file:/C:/Users/Devan/Documents/All%20Things%20Code/Torch-App/MyList/Application/src/main/res/layout/sample_main.xml -->
