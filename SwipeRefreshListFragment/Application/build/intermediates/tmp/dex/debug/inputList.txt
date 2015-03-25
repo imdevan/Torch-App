@@ -1,6 +1,0 @@
-C:\Users\Devan\Documents\All Things Code\Torch-App\SwipeRefreshListFragment\Application\build\intermediates\classes\debug
-C:\Users\Devan\Documents\All Things Code\Torch-App\SwipeRefreshListFragment\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-7059acd92bf790e2d48276752e058ac545ca79bd.jar
-C:\Users\Devan\Documents\All Things Code\Torch-App\SwipeRefreshListFragment\Application\build\intermediates\pre-dexed\debug\classes-fca6d6a31b8261a98474c634f29a4699e030e333.jar
-C:\Users\Devan\Documents\All Things Code\Torch-App\SwipeRefreshListFragment\Application\build\intermediates\pre-dexed\debug\classes-b9ab58e4dd136c49e912d9d7d1145dbc7db8f6ef.jar
-C:\Users\Devan\Documents\All Things Code\Torch-App\SwipeRefreshListFragment\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-aaf8c14573f5cd50b57f22270ec3f8c454cb7d0d.jar
-C:\Users\Devan\Documents\All Things Code\Torch-App\SwipeRefreshListFragment\Application\build\intermediates\pre-dexed\debug\classes-5eb24f22e92cebff706f617a906708f64a867fd0.jar
