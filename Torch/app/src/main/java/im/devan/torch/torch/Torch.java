@@ -104,7 +104,7 @@ public class Torch extends FragmentActivity {
 
 
     /**
-     * NFC Stufff
+     * NFC Stuff
      */
     public void sendFile(View view) {
         nfcAdapter = NfcAdapter.getDefaultAdapter(this);
